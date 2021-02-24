@@ -1,4 +1,4 @@
-# studentClub
+# studentClubManagement
 
 ---------TÜRKÇE----------
 
